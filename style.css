@@ -1,0 +1,38 @@
+body {
+    background-color: hsl(30, 54%, 90%);
+    display: flex;
+    justify-content: center;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    background-color: white;
+    border-radius: 10px;
+    width: 600px;
+    padding: 10px;
+}
+
+img {
+    width: 90%;
+    padding: 30px;
+    border-radius: 40px;
+}
+
+.preperation {
+    background-color: hsl(330, 100%, 98%);
+}
+
+.preperation li {
+    padding: 5px 5px;
+}
+
+h3 {
+    color: hsl(332, 51%, 32%);
+    padding-left: 20px;
+}
+
+.list-title {
+    font-weight: bold;
+}
