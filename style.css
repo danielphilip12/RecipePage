@@ -39,7 +39,7 @@ h3 {
 }
 
 h2 {
-    color: hsl(24, 5%, 18%);
+    color: hsl(15, 36%, 38%);
 }
 
 li {
@@ -81,6 +81,8 @@ table {
 @media only screen and (max-width: 500px) {
     main {
         width: 100%;
+        margin: 0;
+        border-radius: 0;
         /* padding: 0; */
     }
 
